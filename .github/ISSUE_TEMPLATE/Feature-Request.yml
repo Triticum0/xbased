@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
-
+  - type: textarea
     id: feature-request
     attributes:
       label: Feature Request
