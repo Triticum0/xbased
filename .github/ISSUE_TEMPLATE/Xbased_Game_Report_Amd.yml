@@ -10,7 +10,7 @@ body:
       value: |
         ## Important: Read First
 
-        Please check reported issue before submitting your issue.
+        Please check reported issues before submitting your bug report.
 
   - type: textarea
     id: desc
