@@ -8,8 +8,8 @@ body:
     attributes:
       value: |
         ## Important: Read First
-
-        Please check reported issue before submitting issue T
+        
+        Please check reported issues before submitting your bug report.
 
   - type: textarea
     id: desc
