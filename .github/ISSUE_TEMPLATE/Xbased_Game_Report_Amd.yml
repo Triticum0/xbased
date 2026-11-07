@@ -1,6 +1,6 @@
 # Docs - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
 name: Amd Graphical Bug Report
-description: Graphical Issue (Only uses if have graphical issues on AMD GPU).
+description: Graphical Issue (Only use this template if have graphical issues on an AMD GPU).
 title: Placeholder
 labels: [AMD GPU BUG]
 type: Bug
@@ -10,7 +10,7 @@ body:
       value: |
         ## Important: Read First
 
-        Please check reported issue before submitting issue T
+        Please check reported issue before submitting your issue.
 
   - type: textarea
     id: desc
